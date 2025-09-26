@@ -1,3 +1,8 @@
 <?xml version="1.0"?>
-<ArrayOfArquivo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">  
+<ArrayOfArquivo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Arquivo>
+    <FileID>1</FileID>
+    <FileHash>729f2362cb2bed6a85d47929de238722</FileHash>
+    <FilePath>gta_sa.exe</FilePath>
+  </Arquivo>
 </ArrayOfArquivo>
